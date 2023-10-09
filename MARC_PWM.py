@@ -69,7 +69,6 @@ for i in range(2000):
     print(sensor.calibration_status)
 print("calibration done!!!")
 
-
 import numpy as np
 import matplotlib.pyplot as plt
 import math
